@@ -1,0 +1,46 @@
+*.DS_Store
+*~
+\#*
+.\#*
+build/*
+
+# python
+
+*.pyc
+*.log
+*.egg-info
+*.pickle
+*pycache*
+
+# build files
+*.lo
+*.o
+*.obj
+*.so
+*.dylib
+*.dll
+*.cxx.d
+
+# emacs ignore
+*~
+*.autosave
+
+# vim autosave
+*.swo
+*.swp
+*.swk
+*.swn
+*.slo
+
+# binary files
+*.evt
+*.root
+*.hex
+*.bin
+
+#Vivado ignores
+
+# misc
+
+*.app/
+
